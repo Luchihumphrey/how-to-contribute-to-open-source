@@ -155,6 +155,7 @@ The list is generally formatted like below.
         - [Contributing guide](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CONTRIBUTING.md)
         - Issue labels:
             - [first-timers-only](https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+            - [open source guild](https://opensource.guide/how-to-contribute/)
 ```
 
 So you have the project page itself at the top. This can be the front-facing website or GitHub page.
